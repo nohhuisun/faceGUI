@@ -24,3 +24,5 @@ OpenCV (cv2): 카메라 및 영상 처리를 담당합니다.
 MediaPipe: 얼굴 랜드마크 감지 핵심 엔진입니다.
 
 Pillow (PIL): OpenCV 이미지를 Tkinter GUI에서 표시할 수 있도록 변환합니다.
+
+<img width="1147" height="676" alt="image" src="https://github.com/user-attachments/assets/8297455f-de86-4bd1-aa5b-6f4770edc573" />
